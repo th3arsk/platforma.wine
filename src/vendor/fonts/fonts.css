@@ -1,0 +1,21 @@
+@font-face {
+  src: url("./qanelas/Qanelas-Bold.woff") format("woff"),
+  url("./qanelas/Qanelas-Bold.woff2") format("woff2");
+  font-weight: 900;
+  font-family: 'Qanelas';
+}
+
+@font-face {
+src: url("./qanelas/Qanelas-Medium.woff") format("woff"),
+  url("./qanelas/Qanelas-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-family: 'Qanelas';
+}
+
+@font-face {
+  src: url("./qanelas/Qanelas-Regular.woff") format("woff"),
+  url("./qanelas/Qanelas-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-family: 'Qanelas';
+}
+

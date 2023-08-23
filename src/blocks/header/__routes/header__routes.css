@@ -1,0 +1,10 @@
+.header__routes {
+  color: white;
+  display: flex;
+  gap: 40px;
+  font-family: Qanelas;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}

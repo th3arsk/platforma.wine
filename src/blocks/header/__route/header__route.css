@@ -1,0 +1,12 @@
+.header__route {
+  font-family: Qanelas;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  transition: .4s ease-in-out;
+}
+
+.header__route:hover {
+  opacity: .6;
+}

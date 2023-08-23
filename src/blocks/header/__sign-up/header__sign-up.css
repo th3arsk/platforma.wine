@@ -1,0 +1,16 @@
+.header__sign-up {
+  height: 50px;
+  width: 161px;
+  border: .5px white solid;
+  border-radius: 10px;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  color: black;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

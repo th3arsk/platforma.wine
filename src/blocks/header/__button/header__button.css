@@ -1,0 +1,7 @@
+.header__button {
+  transition: .4s ease-in-out;
+}
+
+.header__button:hover {
+  transform: scale(1.1);
+}
