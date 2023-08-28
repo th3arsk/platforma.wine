@@ -1,0 +1,7 @@
+.news__article {
+  width: 563px;
+  height: 515px;
+  border: black solid 1px;
+  border-radius: 20px;
+  box-sizing: content-box;
+}

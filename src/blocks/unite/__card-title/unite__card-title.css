@@ -1,0 +1,11 @@
+.unite__card-title {
+  color: var(--black, #000);
+  text-align: center;
+  font-family: Qanelas;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 0;
+  margin: 0 auto;
+}

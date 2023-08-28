@@ -1,10 +1,6 @@
 body {
-  margin: 0 auto;
-  background-color: rgb(240, 240, 240);
-  width: 100%;
-  min-height: 700px;
+  background-color: white;
   display: flex;
-  justify-content: flex-start;
-  padding: 0;
+  justify-content: space-between;
   font-family: 'Qanelas', Arial, sans-serif;
 }

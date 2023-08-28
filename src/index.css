@@ -18,6 +18,66 @@
 @import url(./blocks/header/__join/header__join.css);
 @import url(./blocks/header/__heading/header__heading.css);
 @import url(./blocks/header/__button/header__button.css);
-@import url(./blocks/header/__route/header__route.css)
+@import url(./blocks/header/__route/header__route.css);
 
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__column/footer__column.css);
+@import url(./blocks/footer/__copyrights/footer__copyrights.css);
+@import url(./blocks/footer/__info/footer__info.css);
+@import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__number/footer__number.css);
+@import url(./blocks/footer/__icons/footer__icons.css);
+@import url(./blocks/footer/__icon/footer__icon.css);
 
+@import url(./blocks/unite/unite.css);
+@import url(./blocks/unite/__heading/unite__heading.css);
+@import url(./blocks/unite/__card/unite__card.css);
+@import url(./blocks/unite/__card-logo/unite__card-logo.css);
+@import url(./blocks/unite/__card-text/unite__card-text.css);
+@import url(./blocks/unite/__card-title/unite__card-title.css);
+@import url(./blocks/unite/__info/unite__info.css);
+
+@import url(./blocks/work/__card-picture/work__card-picture.css);
+@import url(./blocks/work/__card-text/work__card-text.css);
+@import url(./blocks/work/__card-title/work__card-title.css);
+@import url(./blocks/work/__card/work__card.css);
+@import url(./blocks/work/__heading/work__heading.css);
+@import url(./blocks/work/__items/work__items.css);
+@import url(./blocks/work/work.css);
+@import url(./blocks/work/__card-number/work__card-number.css);
+
+@import url(./blocks/trade/trade.css);
+@import url(./blocks/trade/__heading/trade__heading.css);
+@import url(./blocks/trade/__button/trade__button.css);
+
+@import url(./blocks/choose/choose.css);
+@import url(./blocks/choose/__heading/choose__heading.css);
+@import url(./blocks/choose/__items/choose__items.css);
+@import url(./blocks/choose/__window/choose__window.css);
+@import url(./blocks/choose/__logo/choose__logo.css);
+@import url(./blocks/choose/__logo/_1/choose__logo_1.css);
+@import url(./blocks/choose/__logo/_2/choose__logo_2.css);
+@import url(./blocks/choose/__logo/_3/choose__logo_3.css);
+@import url(./blocks/choose/__logo/_4/choose__logo_4.css);
+@import url(./blocks/choose/__reason/_1/choose__reason_1.css);
+@import url(./blocks/choose/__reason/_2/choose__reason_2.css);
+@import url(./blocks/choose/__reason/_3/choose__reason_3.css);
+@import url(./blocks/choose/__reason/_4/choose__reason_4.css);
+@import url(./blocks/choose/__reason/choose__reason.css);
+
+@import url(./blocks/team/team.css);
+@import url(./blocks/team/__heading/team__heading.css);
+@import url(./blocks/team/__member-about/team__member-about.css);
+@import url(./blocks/team/__member-image/team__member-image.css);
+@import url(./blocks/team/__member-name/team__member-name.css);
+@import url(./blocks/team/__items/team__items.css);
+@import url(./blocks/team/__member/team__member.css);
+
+@import url(./blocks/news/news.css);
+@import url(./blocks/news/__article/news__article.css);
+@import url(./blocks/news/__date/news__date.css);
+@import url(./blocks/news/__heading/news__heading.css);
+@import url(./blocks/news/__items/news__items.css);
+@import url(./blocks/news/__picture/news__picture.css);
+@import url(./blocks/news/__text/news__text.css);
+@import url(./blocks/news/__title/news__title.css);

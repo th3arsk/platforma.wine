@@ -1,9 +1,0 @@
-.section__heading {
-  grid-area: heading;
-  margin: 0;
-  padding: 0;
-  height: min-content;
-  font-size: 40px;
-  font-weight: 500;
-  color: rgb(116, 116, 116);
-}

@@ -1,0 +1,19 @@
+.work__card-number {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  background-color: #EAC91A;
+  top: 323px;
+  left: 0;
+  border-radius: 90px;
+  margin: 0;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  font-family: Qanelas;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+}

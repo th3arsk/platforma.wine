@@ -1,0 +1,10 @@
+.footer__link {
+  color: var(--grey, #757575);
+  font-family: Qanelas;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 0;
+  margin: 0 133px 0;
+}

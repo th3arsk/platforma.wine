@@ -1,5 +1,6 @@
 .header__button {
   transition: .4s ease-in-out;
+  z-index: 3;
 }
 
 .header__button:hover {

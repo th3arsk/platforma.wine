@@ -1,0 +1,24 @@
+.trade__button {
+  width: 317px;
+  height: 70px;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  font-family: Qanelas;
+  font-size: 17.101px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  display: flex;
+  position: absolute;
+  left: 147px;
+  bottom: 90px;
+  transition: .4s ease-in-out;
+}
+
+.trade__button:hover {
+  transform: scale(1.1);
+}

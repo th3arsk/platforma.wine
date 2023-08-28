@@ -20,7 +20,7 @@ function Header() {
       </div>
     </section>
     <section className="header__text">
-      <p className="header__heading">единая Торговая платформа винной продукции</p>
+      <h1 className="header__heading">единая Торговая платформа винной продукции</h1>
       <p className="header__about">Продавайте или закупайте проверенную винную продукцию с рейтингом и гарантиями от PLATFORMA.WINE</p>
       <div className="header__join header__button">Присоединится</div>
     </section>

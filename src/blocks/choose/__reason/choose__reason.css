@@ -1,0 +1,10 @@
+.choose__reason {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  font-family: Qanelas;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0em;
+}

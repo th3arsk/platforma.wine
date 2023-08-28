@@ -1,0 +1,10 @@
+.team__member-name  {
+  font-family: Qanelas;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding: 0;
+  margin: 0 auto 10px;
+}

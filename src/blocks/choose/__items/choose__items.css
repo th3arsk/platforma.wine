@@ -1,0 +1,7 @@
+.choose__items {
+  width: calc(1440px - 294px);
+  height: calc(514px + 128px);
+  margin: 74px auto 161px;
+  position: relative;
+  display: flex;
+}

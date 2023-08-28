@@ -1,0 +1,6 @@
+.choose__window {
+  margin: auto;
+  z-index: 2;
+  box-shadow: 1px 1px 20px #00000030;
+  border-radius: 10px;
+}

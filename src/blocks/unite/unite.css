@@ -1,0 +1,9 @@
+.unite {
+  margin: 114px auto 57px; 
+  display: flex;
+  flex-direction: column;
+  background-image: url(../../images/Group\ 133.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1286px;
+}

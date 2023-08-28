@@ -1,0 +1,6 @@
+.team__items {
+  display: flex;
+  width: calc(100% - 220px);
+  margin: 0 auto;
+  justify-content: space-between;
+}

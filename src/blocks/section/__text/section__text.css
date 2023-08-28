@@ -1,9 +1,0 @@
-.section__text {
-  grid-area: text;
-  margin: 0;
-  padding: 0;
-  font-size: 18px;
-  font-weight: 100;
-  color: black;
-  min-height: max-content;
-}

@@ -1,0 +1,6 @@
+.trade {
+  height: 400px;
+  background-image: url(../../images/trades__img.png);
+  display: grid;
+  position: relative;
+}
